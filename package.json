@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/josevidalanaya/pokemon/issues"
     },
-    "homepage": "https://github.com/josevidalanaya/pokemon#readme"
+    "homepage": "https://github.com/josevidalanaya/pokemon#readme",
+    "dependencies": {
+        "axios": "^0.24.0"
+    }
 }
